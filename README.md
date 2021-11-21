@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Do you like **[my Website](https://lewdhaks.pages.dev/)** ?
+- 👨‍💻 Do you like **[my website](https://lewdhaks.pages.dev/)** ?
 
 - 📫 How to reach me **lewdhak-1337@protonmail.com**
 
