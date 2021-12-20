@@ -72,6 +72,7 @@
     <br>
 <a href = "https://twitter.com/lewdhak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subjectz._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://discord.gg/zANR7FY9fd"><img src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/></a>
 <a href = "https://www.youtube.com/channel/UCyvB0ekB0itQmzL8tCR6Zuw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
