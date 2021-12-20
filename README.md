@@ -66,7 +66,10 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 📞 Connect with me:
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/899701701836173352.png">
+</p>
 <p align="left">
 
 <a href = "https://twitter.com/lewdhak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
